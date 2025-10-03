@@ -8,4 +8,36 @@
 <body>
   <header>
     <h1>Música Maestra</h1>
-    
+    <nav>
+      <ul>
+          <li><a href="#inicio">Inicio</a></li>
+          <li><a href="#servicios">Servicios</li>
+          <li><a href="#agenda">Agendar</li>
+          <li><a href="#contacto">Contacto</li>
+      </ul>
+    </nav>
+</header>
+
+<section id="inicio">
+  <h2>Bienvenidos</h2>
+  <p>Clases de violín y piano, presenciales o virtuales.
+  Elige tu nivel: incial, intermedio o avanzado y agenda tu clase fácilmente.</p>
+</section>
+
+<section id="servicios">
+  <h2>Servicios Disponibles</h2>
+  <ul>
+      <li> Clases de Violín (virtual o presenciales, individuales o grupales)</li>
+      <li> Clases de Piano (virtual o presenciales, individuales o grupales)</li>
+  </ul>
+  <p>Niveles: Inicial (30-60 min, Intermedio (60-90 min), Avanzado (hasta 2h).
+  Tiempo extra: costo adicional a partir de 15 min extras.</p>
+</section>
+
+
+
+
+
+
+
+
